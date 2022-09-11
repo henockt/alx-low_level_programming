@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+/**
+ * main - Prints a custom string
+ *
+ * Return: 0 always
+ */
+int main(void)
+{
+printf("Size of a char: %d byte(s)", sizeof(char));
+ printf("Size of an int: %d byte(s)", sizeof(int));
+ 
+return (0);
+}
