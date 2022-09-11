@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+/**
+ * main - Prints a custom string
+ *
+ * Return: 0 always
+ */
+int main(void)
+{
+char p[] = "with proper grammar, but the outcome is a piece of art,\n";
+printf(p);
+return (0);
+}
